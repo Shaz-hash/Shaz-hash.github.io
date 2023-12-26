@@ -64,6 +64,11 @@ layout: default
             {%- include extras.html %}
           {%- endif %}
 
+          {% if page.blog -%}
+            <h2><a href="" style="color: inherit;">Blog</a></h2>
+            {%- include blog.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

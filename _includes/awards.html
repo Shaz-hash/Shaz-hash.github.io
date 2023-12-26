@@ -7,7 +7,8 @@
                     {% assign fake_titles = ["Dean's Honor List", "Dean's Honor List", "Dean's Honor List"] %}
                     {% for i in (0..2) %}
                     <tr>
-                        yaay3 fake_titles[i]
+                        yaay3 
+                        <h1>{{fake_titles[i]}}</h1>
                         <th scope="row" style="width: 40%">{{ fake_dates[i] | date: "%b %-d, %Y" }}</th>
                         <td>
                         <a class="news-title" href="">{{ fake_titles[i] }}</a>

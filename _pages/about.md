@@ -13,10 +13,10 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+Teaching Experience: false # includes a list of news items
+Open Source Contribution: true # includes a list of the newest posts
+Awards: true # includes a list of papers marked as "selected={true}"
+Extracurricular Activities: true # includes social icons at the bottom of the page
 ---
 
 I’m a final-year BS CS student (aspiring for Ph.D.) at the Lahore University of Management and Sciences. My research interests span the domains of Networked Systems, and I am particularly drawn to the challenges of constructing efficient, scalable, and secure network systems within diverse distributed applications, each presenting its unique set of constraints and tradeoffs. To this end, I also intend to rethink many already-existing abstractions that allow us to isolate these problems because, sometimes, the abstractions we synthesize can limit our perspective and discourage unconventional, innovative ways of thinking.

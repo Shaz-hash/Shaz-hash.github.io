@@ -1,21 +1,34 @@
-            <div class="news">
-                yaaay
-                <div class="table-responsive">
-                <table class="table table-sm table-borderless">
-                    yaaay2
-                    {% assign fake_dates = ["2021-12-01", "2022-12-15", "2023-12-30"] %}
-                    {% assign fake_titles = ["Dean's Honor List", "Dean's Honor List", "Dean's Honor List"] %}
-                    {% for i in (0..2) %}
-                    <tr>
-                        yaay3 
-                        <h1>{{fake_titles[i]}}</h1>
-                        <th scope="row" style="width: 40%">{{ fake_dates[i] | date: "%b %-d, %Y" }}</th>
-                        <td>
-                        <a class="news-title" href="">{{ fake_titles[i] }}</a>
-                        </td>
-                    </tr>
-                    {% endfor %}
-                </table>
-                </div>
-            </div>
+<div class="news">
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row" style="width: 40%">
+            <h1>Dean's Honor List</h1>
+            {{ "2021-12-01" | date: "%b %-d, %Y" }}
+          </th>
+          <td>
+            <a class="news-title" href="#">Dean's Honor List</a>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row" style="width: 40%">
+            <h1>Dean's Honor List</h1>
+            {{ "2022-12-15" | date: "%b %-d, %Y" }}
+          </th>
+          <td>
+            <a class="news-title" href="#">Dean's Honor List</a>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row" style="width: 40%">
+            <h1>Dean's Honor List</h1>
+            {{ "2023-12-30" | date: "%b %-d, %Y" }}
+          </th>
+          <td>
+            <a class="news-title" href="#">Dean's Honor List</a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
   

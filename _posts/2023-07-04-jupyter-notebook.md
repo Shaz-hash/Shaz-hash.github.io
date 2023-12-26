@@ -1,15 +1,16 @@
 ---
 layout: post
-title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
-tags: formatting jupyter
+title: Flower (A Friendly Federated Learning Framework)
+date: 2023-08-01 08:57:00-0400
+endDate: 2023-7-07 15:59:00-0400
 categories: sample-posts
 giscus_comments: true
 related_posts: false
 ---
 
-To include a jupyter notebook in a post, you can use the following code:
+<!-- Flower (A Friendly Federated Learning Framework) -->
+
+<!-- To include a jupyter notebook in a post, you can use the following code:
 
 {% raw %}
 
@@ -41,4 +42,4 @@ The plugin takes as input the path to the notebook, but it assumes the file exis
 {% endif %}
 {:/nomarkdown}
 
-Note that the jupyter notebook supports both light and dark themes.
+Note that the jupyter notebook supports both light and dark themes. -->

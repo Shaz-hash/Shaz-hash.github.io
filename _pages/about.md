@@ -7,7 +7,7 @@ subtitle: 24100053@lums.edu.pk
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 awards: true

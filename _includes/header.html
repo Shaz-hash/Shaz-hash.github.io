@@ -38,7 +38,7 @@
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               {%- for page in site.pages -%}
-                {% if page.permalink == '/' %}
+                {% if page.permalink == '/' or page.permalink == '/myPortfolio/' %}
                   {% assign about_title = page.title %}
                 {% endif %}
               {% endfor %}

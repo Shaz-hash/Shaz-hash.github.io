@@ -59,6 +59,11 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          {% if page.extracurricular_activities-%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Extracurricular Activities</a></h2>
+            {%- include selected_papers.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

@@ -5,13 +5,12 @@
                     yaaay2
                     {% assign fake_dates = ["2021-12-01", "2022-12-15", "2023-12-30"] %}
                     {% assign fake_titles = ["Dean's Honor List", "Dean's Honor List", "Dean's Honor List"] %}
-                    yaaay3
                     {% for i in (0..2) %}
                     <tr>
-                        yaay3
+                        yaay3 fake_titles[i]
                         <th scope="row" style="width: 40%">{{ fake_dates[i] | date: "%b %-d, %Y" }}</th>
                         <td>
-                        <a class="news-title" href="#">{{ fake_titles[i] }}</a>
+                        <a class="news-title" href="">{{ fake_titles[i] }}</a>
                         </td>
                     </tr>
                     {% endfor %}

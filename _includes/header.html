@@ -71,6 +71,26 @@
                 </a>
               </li>
 
+              <!-- Research Statement -->
+              <li class="nav-item {% if page.url contains 'SoP' %}active{% endif %}">
+                <a class="nav-link" href="{{ 'assets/pdf/ShazerAli_SoP.pdf' | relative_url }}" target="_blank">Research Statement 
+                  {%- if page.url contains 'SoP' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
+
+              <!-- Research Statement -->
+              <li class="nav-item {% if page.url contains 'SoP' %}active{% endif %}">
+                <a class="nav-link" href="{{ 'assets/pdf/personal_statement.pdf' | relative_url }}" target="_blank">Personal Statement 
+                  {%- if page.url contains 'SoP' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
+
               <!-- Other pages -->
               <!-- {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}

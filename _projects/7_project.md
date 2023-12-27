@@ -2,9 +2,9 @@
 layout: page
 title: Boruto
 description: For obvious reason this is nowhere near how boruto looks but thats how I imagined him to be before the release of manage :P
-img: assets/img/trad_7.jpg
+img: assets/img/trad_7.png
 importance: 1
-category: Anime (Traditional)
+category: Anime (Digital)
 ---
 
 <!-- Every project has a beautiful feature showcase page.

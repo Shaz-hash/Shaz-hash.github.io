@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Naruto
+description:
 img: assets/img/trad_3.jpg
 importance: 3
 category: Anime (Traditional)

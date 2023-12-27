@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Sasuke Uchiha
+description:
 img: assets/img/trad_1.jpg
 importance: 1
 category: Anime (Traditional)

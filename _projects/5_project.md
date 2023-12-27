@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Minato Namikaze
+description:
 img: assets/img/trad_5.jpg
 importance: 5
 category: Anime (Traditional)

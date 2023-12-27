@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Naruto
+description:
 img: assets/img/trad_4.jpg
 importance: 4
 category: Anime (Traditional)

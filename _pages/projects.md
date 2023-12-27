@@ -6,7 +6,7 @@ description: Throughout my academic journey, I have consistently pursued my hobb
 nav: true
 nav_order: 2
 display_categories:
-  [Anime(Digital), Real Potraits(Traditional), Anime (Traditional)]
+  [Anime (Digital), Real Potraits(Traditional), Anime (Traditional)]
 horizontal: false
 ---
 

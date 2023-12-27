@@ -1,11 +1,6 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
-    {%- else -%}
-    <a href="{{ project.url | relative_url }}">
-      {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
         <div class="card-img">

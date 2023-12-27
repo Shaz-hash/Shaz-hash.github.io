@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Troye Sivan
+description:
 img: assets/img/trad_6.jpg
 importance: 1
 category: Real Potraits(Traditional)

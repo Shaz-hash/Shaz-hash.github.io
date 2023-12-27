@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: My Art
 permalink: /projects/
 description: Throughout my academic journey, I have consistently pursued my hobby of sketching, whether on traditional paper or digital screens (recently transitioned).
 nav: true
 nav_order: 2
 display_categories:
-  [Anime (Traditional), Real Potraits(Traditional), Anime(Digital)]
+  [Anime(Digital), Real Potraits(Traditional), Anime (Traditional)]
 horizontal: false
 ---
 

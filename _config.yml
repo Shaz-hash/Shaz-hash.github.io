@@ -181,6 +181,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 1 # leave blank to include all the blog posts
 
+research:
+  enabled: true
+  scrollable: true
+  limit: 5
+
 awards:
   enabled: true
   scrollable: true

@@ -41,6 +41,11 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.research -%}
+            <h2><a href="" style="color: inherit;">Research Experience</a></h2>
+            {%- include research.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="" style="color: inherit;">Teaching Experience</a></h2>

@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
+research: true
 awards: true
 extras: true
 blog: true

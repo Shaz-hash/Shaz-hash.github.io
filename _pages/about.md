@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 24100053@lums.edu.pk
 
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 extracurricular_activities: true
 ---
 
-I am a Research Associate in the Computer Science Department at the Lahore University of Management Sciences (LUMS), where I have the privilege of conducting research under the supervision of [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/),[Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), [Dr. Basit Shafiq](https://web.lums.edu.pk/~basit/) and [Dr. Agha Ali Raza](https://aghaaliraza.com/).
+I am a Research Associate in the Computer Science Department at the Lahore University of Management Sciences (LUMS), where I have the privilege of conducting research under the supervision of [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), [Dr. Basit Shafiq](https://web.lums.edu.pk/~basit/) and [Dr. Agha Ali Raza](https://aghaaliraza.com/).
 
 I graduated from the Lahore University of Management Sciences in 2024. Shortly after, I joined as a Research Associate, working on 5G cellular networks, Ethereum 2.0 blockchain networks, and scalable software for LLM-powered applications.
 

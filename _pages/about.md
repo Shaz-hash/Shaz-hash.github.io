@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 24100053@lums.edu.pk
+subtitle: shazer@cs.utexas.edu
 
 profile:
   align: left
